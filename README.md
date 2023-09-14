@@ -21,10 +21,10 @@ To capture regional nuances and appeal to diverse audiences, AL Vijay is recomme
 4. Actor Choices:
 For lead roles, consider the following accomplished actors:
 
-  Mammooty
-  Mohanlal
-  Yogi Babu
-  Vijay Sethupathi
+  a. Mammooty
+  b. Mohanlal
+  c. Yogi Babu
+  d. Vijay Sethupathi
 Selecting one among these talented actors will significantly enhance the movie's potential for success.
 
 5. Actress Selection:
@@ -36,8 +36,8 @@ Given our earlier analysis, the Drama genre is the most promising genre to focus
 7. Production Company:
 Consider the following production companies for your projects:
 
-  Dream Warrior Pictures
-  National Theatre Live
+  a. Dream Warrior Pictures
+  b. National Theatre Live
   
 However, if RSVP is interested in producing multilingual movies, it is recommended to collaborate with production giants like Star Cinema or Twentieth Century Fox, as they have a proven track record of handling multilingual projects effectively.
 
